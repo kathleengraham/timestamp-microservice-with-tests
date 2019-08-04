@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-microservice-with-tests",
+  "version": "0.0.1",
+  "description": "timestamp microservice with test driven development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathleengraham/timestamp-microservice-with-tests.git"
+  },
+  "keywords": [
+    "api",
+    "freeCodeCamp",
+    "timestamp",
+    "microservice"
+  ],
+  "author": "Kathleen Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kathleengraham/timestamp-microservice-with-tests/issues"
+  },
+  "homepage": "https://github.com/kathleengraham/timestamp-microservice-with-tests#readme"
+}
